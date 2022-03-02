@@ -1,0 +1,44 @@
+ [
+  {
+    "id": 1,
+    "key": "hajsaof",
+    "name": "Tesla",
+    "description": "Tesla, Inc. is an American electric vehicle and clean energy company based in Palo Alto, California, United States. Tesla designs and manufactures electric cars, battery energy storage from home to grid-scale, solar panels and solar roof tiles, and related products and services.",
+    "image": "https://static.autox.com/uploads/cars/2021/10/mahindra-xuv700.jpg"
+  },
+  {
+    "id": 2,
+    "key": "haslfsfkkl",
+    "name": "Prado",
+    "description": "The Prado may also be referred to as Land Cruiser LC70, LC90, LC120 and LC150 depending on the platform. In some markets, it is known simply as the Toyota Prado.",
+    "image": "https://www.indiacarnews.com/wp-content/uploads/2019/06/Kia-Seltos-SUV-India.jpg"
+  },
+  {
+    "id": 3,
+    "key": "jkasjhhia",
+    "name": "Nishan",
+    "description": "Nissan Motor Co., Ltd. is a Japanese multinational automobile manufacturer headquartered in Nishi-ku, Yokohama, Japan. The company sells its vehicles under the Nissan, Infiniti, and Datsun brands, with in-house performance tuning products labelled Nismo.",
+    "image": "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=http://cms.haymarketindia.net/model/uploads/modelimages/MG-Astor-200920211457.jpg"
+  },
+  {
+    "id": 4,
+    "key": "adjjaljha",
+    "name": "Lamborghini",
+    "description": "Lamborghini has spent decades as the purveyor of droolworthy supercars that are more commonly seen on bedroom posters than actual roads. The Italian automaker is currently a subsidiary of Audi, which in turn is owned by the Volkswagen Group.",
+    "image": "https://images.cars.com/cldstatic/wp-content/uploads/acura-tlx-type-s-2021-02-angle-blue-exterior-front-sedan-scaled.jpg"
+  },
+  {
+    "id": 5,
+    "key": "uajajie",
+    "name": "Ferrari",
+    "description": "Ferraris are what dreams are made of. Fast, sexy, and highly exclusive, these Italian supercars push the boundaries of performance and cause a stir wherever they go. The Portofino convertible is the most accessible in terms of price, but even it is far too.",
+    "image": "https://www.rushlane.com/wp-content/uploads/2020/07/mg-hector-plus-brochure-july-2020-8.jpg"
+  },
+  {
+    "id": 6,
+    "key": "ohisasrsa",
+    "name": "Rolls-Royce",
+    "description": "Rolls-Royce was a British luxury car and later an aero-engine manufacturing business established in 1904 in Manchester, United Kingdom by the partnership.",
+    "image": "https://www.theindianwire.com/wp-content/uploads/2020/12/Tata-Altroz-Turbo.jpg"
+  }
+]
